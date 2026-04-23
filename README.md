@@ -2,7 +2,8 @@
 <p>Welcome to my page!</p>
 <h3>Open source projects</h3>
 <ul>
-  <li><a href="[amp go2](https://github.com/ak1raljl/amp_go2.git)"><b> href="[amp go2](https://github.com/ak1raljl/amp_go2.git)</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
+  <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>https://github.com/ak1raljl/amp_go2.git</b></a><br/><i>AMP implementation for go2 edu</i></li>
+  <li><a href="https://github.com/ak1raljl/amp_go2.git"><b> href="(https://github.com/ak1raljl/amp_go2.git)</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
   <li><a href="[go2_sim2real_deploy](https://github.com/ak1raljl/go2_sim2real_deploy.git)"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
   <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
   <li><a href="https://medium.com/better-programming/pro-tips-to-help-you-get-started-with-your-side-project-15d01b76e0d8"><b>Pro Tips to Help You Get Started With Your Side Project</b></a><br/><i>Begin with solid foundations to keep the excitement kicking in...</i></li>
