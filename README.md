@@ -51,8 +51,8 @@
   </tbody>
 </table>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:WAKATIME_API_KEY-->
+<!--END_SECTION:WAKATIME_API_KEY-->
 
 <h3>My latest posts</h3>
 <ul>
