@@ -4,10 +4,6 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-
-![](https://github.com/ak1raljl/sw-yx/blob/master/generated/overview.svg)
-![](https://github.com/ak1raljl/sw-yx/master/generated/languages.svg)
-
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
