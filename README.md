@@ -13,6 +13,10 @@
 ![Static Badge](https://img.shields.io/badge/Git-black?logo=Git)
 ![Static Badge](https://img.shields.io/badge/GitLab-black?logo=GitLab)
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak1raljl)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Open source projects</h3>
@@ -50,9 +54,6 @@
     </tr>
   </tbody>
 </table>
-
-<!--START_SECTION:WAKATIME_API_KEY-->
-<!--END_SECTION:WAKATIME_API_KEY-->
 
 <h3>My latest posts</h3>
 <ul>
