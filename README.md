@@ -1,12 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>Welcome to my page!</p>
 
-![Static Badge](https://img.shields.io/badge/github-repo-black?logo=github)
+![Static Badge](https://img.shields.io/badge/github-ak1raljl-blue?logo=github)
 ![Static Badge](https://img.shields.io/badge/python-black?logo=python)
 ![Static Badge](https://img.shields.io/badge/c%2B%2B-black?logo=c%2B%2B)
 ![Static Badge](https://img.shields.io/badge/c-black?logo=c)
 ![Static Badge](https://img.shields.io/badge/Torch-black?logo=pytorch)
-![Static Badge](https://img.shields.io/badge/VS%20Code-blue?logo=VS%20Code)
+![Static Badge](https://img.shields.io/badge/VS%20Code-black?logo=VS%20Code)
 ![Static Badge](https://img.shields.io/badge/Pycharm-black?logo=Pycharm)
 ![Static Badge](https://img.shields.io/badge/Clion-black?logo=Clion)
 ![Static Badge](https://img.shields.io/badge/Git-black?logo=Git)
