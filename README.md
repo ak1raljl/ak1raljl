@@ -15,7 +15,6 @@
 ![Static Badge](https://img.shields.io/badge/Airsim-black?logo=unrealengine)
 ![Static Badge](https://img.shields.io/badge/Gazebo-black?logo=ros)
 ![Static Badge](https://img.shields.io/badge/Torch-black?logo=pytorch)
-![Static Badge](https://img.shields.io/badge/lightning-black?logo=lightning)
 ![Static Badge](https://img.shields.io/badge/VS%20Code-black?logo=VS%20Code)
 ![Static Badge](https://img.shields.io/badge/Pycharm-black?logo=Pycharm)
 ![Static Badge](https://img.shields.io/badge/Clion-black?logo=Clion)
