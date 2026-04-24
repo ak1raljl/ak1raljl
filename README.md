@@ -6,12 +6,16 @@
 ![Static Badge](https://img.shields.io/badge/bilibili-black?logo=bilibili&link=https%3A%2F%2Fspace.bilibili.com%2F25273056)
 ![Static Badge](https://img.shields.io/badge/ubuntu-black?logo=ubuntu)
 ![Static Badge](https://img.shields.io/badge/docker-black?logo=docker)
+![Static Badge](https://img.shields.io/badge/anaconda-black?logo=anaconda)
 ![Static Badge](https://img.shields.io/badge/python-black?logo=python)
 ![Static Badge](https://img.shields.io/badge/c%2B%2B-black?logo=c%2B%2B)
 ![Static Badge](https://img.shields.io/badge/c-black?logo=c)
 ![Static Badge](https://img.shields.io/badge/ROS-black?logo=ros)
 ![Static Badge](https://img.shields.io/badge/isaacgym-black?logo=nvidia)
+![Static Badge](https://img.shields.io/badge/Airsim-black?logo=unrealengine)
+![Static Badge](https://img.shields.io/badge/Gazebo-black?logo=ros)
 ![Static Badge](https://img.shields.io/badge/Torch-black?logo=pytorch)
+![Static Badge](https://img.shields.io/badge/lightning-black?logo=lightning)
 ![Static Badge](https://img.shields.io/badge/VS%20Code-black?logo=VS%20Code)
 ![Static Badge](https://img.shields.io/badge/Pycharm-black?logo=Pycharm)
 ![Static Badge](https://img.shields.io/badge/Clion-black?logo=Clion)
@@ -21,6 +25,7 @@
 ![Static Badge](https://img.shields.io/badge/GitLab-black?logo=GitLab)
 ![Static Badge](https://img.shields.io/badge/Claude-black?logo=claude)
 ![Static Badge](https://img.shields.io/badge/Gemini-black?logo=google)
+
 
 
 
