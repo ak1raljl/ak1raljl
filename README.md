@@ -50,7 +50,7 @@ Text         0 secs                ░░░░░░░░░░░░░░░
     <img style="height: 170px; width: auto;" align="right" src="https://github-readme-stats-zeta-nine-75.vercel.app/api?username=ak1raljl&rank_icon=github" alt="ak1raljl" />
 </div>
 
-### 
+### AK1RALJL
 
 ### Open source projects
 <table>
