@@ -22,5 +22,5 @@ jobs:
           LANG_COUNT: 8
           SHOW_TIME: true
           SHOW_TOTAL: true
-          SYMBOL_VERSION: "2"
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
 
