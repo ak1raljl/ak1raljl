@@ -52,7 +52,7 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 </div>
 
 
-<h3>Open source projects</h3>
+### Open source projects
 <table>
   <thead align="center">
     <tr border: none;>
@@ -88,7 +88,7 @@ Text         0 secs                ░░░░░░░░░░░░░░░
   </tbody>
 </table>
 
-<h3>My latest posts</h3>
+### My latest posts
 <ul>
   <li><a href="https://github.com/ak1raljl/amp_go2.git"><b>amp_go2</b></a><br/><i>AMP implementation for go2 edu</i></li>
   <li><a href="https://github.com/ak1raljl/go2_sim2real_deploy.git"><b>go2_sim2real_deploy</b></a><br/><i>This project deploys Reinforcement Learning (RL) policies on the Unitree Go2 Edu robot</i></li>
