@@ -26,7 +26,10 @@
 ![Static Badge](https://img.shields.io/badge/Gemini-black?logo=google)
 
 
-
+<div style="display: flex; flex-wrap: wrap;">
+    <img style="height: 170px; width: auto;" align="left" src="https://github-readme-stats-zeta-nine-75.vercel.app/api/top-langs?username=ak1raljl&show_icons=true&locale=en&layout=compact" alt="ak1raljl" />
+    <img style="height: 170px; width: auto;" align="right" src="https://github-readme-stats-zeta-nine-75.vercel.app/api?username=ak1raljl&rank_icon=github" alt="ak1raljl" />
+</div>
 
 <!--START_SECTION:waka-->
 
@@ -44,12 +47,6 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-
-<div style="display: flex; flex-wrap: wrap;">
-    <img style="height: 170px; width: auto;" align="left" src="https://github-readme-stats-zeta-nine-75.vercel.app/api/top-langs?username=ak1raljl&show_icons=true&locale=en&layout=compact" alt="ak1raljl" />
-    <img style="height: 170px; width: auto;" align="right" src="https://github-readme-stats-zeta-nine-75.vercel.app/api?username=ak1raljl&rank_icon=github" alt="ak1raljl" />
-</div>
 
 
 ### Open source projects
