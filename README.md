@@ -45,11 +45,6 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<div style="display: flex; flex-wrap: wrap;">
-    <img style="height: 170px; width: auto;" align="left" src="https://github-readme-stats-zeta-nine-75.vercel.app/api/top-langs?username=Zhefan-Xu&show_icons=true&locale=en&layout=compact" alt="Zhefan-Xu" />
-    <img style="height: 170px; width: auto;" align="right" src="https://github-readme-stats-zeta-nine-75.vercel.app/api?username=Zhefan-Xu&rank_icon=github" alt="Zhefan-Xu" />
-</div>
-
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -96,3 +91,8 @@ Text         0 secs                ░░░░░░░░░░░░░░░
   <li><a href="https://github.com/ak1raljl/powerline_tree_analyze.git"><b>powerline_tree_analyze</b></a><br/><i>A project focuses on analyzing LiDAR point cloud data for powerline infrastructure and tree clearance analysis.</i></li>
   
 </ul>
+
+<div style="display: flex; flex-wrap: wrap;">
+    <img style="height: 170px; width: auto;" align="left" src="https://github-readme-stats-zeta-nine-75.vercel.app/api/top-langs?username=Zhefan-Xu&show_icons=true&locale=en&layout=compact" alt="Zhefan-Xu" />
+    <img style="height: 170px; width: auto;" align="right" src="https://github-readme-stats-zeta-nine-75.vercel.app/api?username=Zhefan-Xu&rank_icon=github" alt="Zhefan-Xu" />
+</div>
