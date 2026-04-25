@@ -45,7 +45,10 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak1raljl)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; flex-wrap: wrap;">
+    <img style="height: 170px; width: auto;" align="left" src="https://github-readme-stats-zeta-nine-75.vercel.app/api/top-langs?username=Zhefan-Xu&show_icons=true&locale=en&layout=compact" alt="Zhefan-Xu" />
+    <img style="height: 170px; width: auto;" align="right" src="https://github-readme-stats-zeta-nine-75.vercel.app/api?username=Zhefan-Xu&rank_icon=github" alt="Zhefan-Xu" />
+</div>
 
 <h3>Open source projects</h3>
 <table>
