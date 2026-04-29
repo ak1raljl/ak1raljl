@@ -90,8 +90,8 @@ Git Config   23 mins               ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <tr>
       <td><a href="https://github.com/ak1raljl/quadruped_trot"><b>quadruped_trot</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ak1raljl/quadruped_trot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ak1raljl/quadruped_trot=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ak1raljl/quadruped_trot=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ak1raljl/quadruped_trot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ak1raljl/quadruped_trot?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ak1raljl/quadruped_trot?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
@@ -103,7 +103,7 @@ Git Config   23 mins               ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <li><a href="https://github.com/ak1raljl/CTS_go2.git"><b>CTS_go2</b></a><br/><i>This repository provides cts implementation for go2 edu</i></li>
   <li><a href="https://github.com/ak1raljl/go2_sim2real_deploy.git"><b>go2_sim2real_deploy</b></a><br/><i>This project deploys Reinforcement Learning (RL) policies on the Unitree Go2 Edu robot</i></li>
   <li><a href="https://github.com/ak1raljl/quadruped_trot.git"><b>quadruped_trot</b></a><br/><i>Trot for go2 edu and Xiaomi cyberdog2</i></li>
-  <li><a href="https://github.com/ak1raljl/go2_sim.git"><b>quadruped_trot</b></a><br/><i>go2 simulation in gazebo, for sim2sim, navigation</i></li>
+  <li><a href="https://github.com/ak1raljl/go2_sim.git"><b>go2_sim</b></a><br/><i>go2 simulation in gazebo, for sim2sim, navigation</i></li>
   <li><a href="https://github.com/ak1raljl/NAV_UAV.git"><b>NAV_UAV</b></a><br/><i>A reinforcement learning experiment project for UAV navigation</i></li>
   <li><a href="https://github.com/ak1raljl/quadruped_gym.git"><b>quadruped_gym</b></a><br/><i>A project for quadruped robot</i></li>
   <li><a href="https://github.com/ak1raljl/powerline_tree_analyze.git"><b>powerline_tree_analyze</b></a><br/><i>A project focuses on analyzing LiDAR point cloud data for powerline infrastructure and tree clearance analysis.</i></li>
