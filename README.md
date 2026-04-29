@@ -81,7 +81,7 @@ Git Config   23 mins               ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ak1raljl/go2_sim2real_deploy?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	<tr>
-      <td><a href="https://github.com/ak1raljl/go2_sim"><b>go2_sim2real_deploy</b></a></td>
+      <td><a href="https://github.com/ak1raljl/go2_sim"><b>go2_sim</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ak1raljl/go2_sim?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ak1raljl/go2_sim?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/ak1raljl/go2_sim?style=flat-square&labelColor=343b41"/></td>
