@@ -26,20 +26,6 @@
 ![Static Badge](https://img.shields.io/badge/Gemini-black?logo=google)
 
 
-
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 02 August 2026 - To: 09 August 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 ### Open source projects
 <table>
   <thead align="center">
@@ -105,5 +91,4 @@ No activity tracked
 
 <div style="display: flex; flex-wrap: wrap;">
     <img style="height: 170px; width: auto;" align="left" src="https://github-readme-stats-zeta-nine-75.vercel.app/api/top-langs?username=ak1raljl&show_icons=true&locale=en&layout=compact" alt="ak1raljl" />
-    <img style="height: 170px; width: auto;" align="right" src="https://github-readme-stats-zeta-nine-75.vercel.app/api?username=ak1raljl&rank_icon=github" alt="ak1raljl" />
 </div>
