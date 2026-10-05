@@ -34,50 +34,58 @@
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/ak1raljl/mimic_mjlab"><b>mimic_mjlab</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ak1raljl/mimic_mjlab?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ak1raljl/mimic_mjlab?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ak1raljl/mimic_mjlab?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ak1raljl/go2_mjlab"><b>go2_mjlab</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ak1raljl/go2_mjlab?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ak1raljl/go2_mjlab?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ak1raljl/go2_mjlab?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/ak1raljl/amp_go2"><b>amp_go2</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ak1raljl/amp_go2?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ak1raljl/amp_go2?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ak1raljl/amp_go2?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ak1raljl/amp_go2?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	<tr>
       <td><a href="https://github.com/ak1raljl/CTS_go2"><b>CTS_go2</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ak1raljl/CTS_go2?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ak1raljl/CTS_go2?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/ak1raljl/CTS_go2?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ak1raljl/CTS_go2?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	<tr>
       <td><a href="https://github.com/ak1raljl/go2_sim2real_deploy"><b>go2_sim2real_deploy</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ak1raljl/go2_sim2real_deploy?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ak1raljl/go2_sim2real_deploy?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/ak1raljl/go2_sim2real_deploy?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ak1raljl/go2_sim2real_deploy?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	<tr>
       <td><a href="https://github.com/ak1raljl/go2_sim"><b>go2_sim</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ak1raljl/go2_sim?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ak1raljl/go2_sim?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/ak1raljl/go2_sim?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ak1raljl/go2_sim?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ak1raljl/quadruped_trot"><b>quadruped_trot</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ak1raljl/quadruped_trot?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ak1raljl/quadruped_trot?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ak1raljl/quadruped_trot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ak1raljl/quadruped_trot?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
 
 ### My latest posts
 <ul>
+  <li><a href="[https://github.com/ak1raljl/mimic_mjlab.git]"><b>mimic_mjlab</b></a><br/><i>MIMIC for g1(PPO, SAC)</i></li>
+  <li><a href="[https://github.com/ak1raljl/go2_mjlab.git]"><b>go2_mjlab</b></a><br/><i>train go2 rl in mjlab</i></li>	
   <li><a href="https://github.com/ak1raljl/amp_go2.git"><b>amp_go2</b></a><br/><i>AMP implementation for go2 edu</i></li>
   <li><a href="https://github.com/ak1raljl/CTS_go2.git"><b>CTS_go2</b></a><br/><i>This repository provides cts implementation for go2 edu</i></li>
   <li><a href="https://github.com/ak1raljl/go2_sim2real_deploy.git"><b>go2_sim2real_deploy</b></a><br/><i>This project deploys Reinforcement Learning (RL) policies on the Unitree Go2 Edu robot</i></li>
